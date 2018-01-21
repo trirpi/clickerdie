@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <SwitchPreference
+        android:defaultValue="false"
+        android:disableDependentsState="false"
+        android:key="setting_screen_awake"
+        android:summary="@string/setting_screen_awake_summary"
+        android:title="@string/setting_screen_awake" />
+</PreferenceScreen>
